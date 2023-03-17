@@ -27,6 +27,7 @@ header:
     - '**/*.md'
     - '**/.gitignore'
     - '**/.gitmodules'
+    - '**/MIT-ascii.txt'
     - '.cargo'
     - '.idea'
     - '.vscode'
